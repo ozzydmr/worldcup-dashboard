@@ -1,0 +1,27 @@
+year,host,matches_as_host,ppm_as_host,ppm_when_not_hosting,ppm_lift,gd_per_match_as_host,gd_per_match_not_hosting,win_pct_as_host,win_pct_not_hosting,other_editions_played,won_as_host,lift_direction,is_partial_edition
+1930,Uruguay,4,3.0,1.382,1.618,3.0,0.018,100.0,38.2,13,1,Overperformed,0
+1934,Italy,5,2.6,1.833,0.767,1.8,0.538,80.0,52.6,17,1,Overperformed,0
+1938,France,2,1.5,1.803,-0.303,0.0,0.718,50.0,53.5,15,0,Underperformed,0
+1950,Brazil,6,2.167,2.167,0.0,2.667,1.046,66.7,66.7,21,0,Underperformed,0
+1954,Switzerland,4,1.5,1.189,0.311,0.0,-0.486,50.0,32.4,11,0,Overperformed,0
+1958,Sweden,6,2.167,1.267,0.9,0.833,0.044,66.7,33.3,11,0,Overperformed,0
+1962,Chile,6,2.0,1.037,0.963,0.333,-0.407,66.7,25.9,8,0,Overperformed,0
+1966,England,6,2.667,1.5,1.167,1.333,0.412,83.3,39.7,15,1,Overperformed,0
+1970,Mexico,4,1.75,1.054,0.696,0.5,-0.732,50.0,26.8,16,0,Overperformed,0
+1974,West Germany,7,2.571,1.971,0.6,1.286,0.886,85.7,59.0,19,1,Overperformed,0
+1978,Argentina,7,2.286,1.753,0.533,1.571,0.494,71.4,51.9,17,1,Overperformed,0
+1982,Spain,5,1.0,1.694,-0.694,-0.2,0.548,20.0,48.4,15,0,Underperformed,0
+1986,Mexico,5,2.2,1.0,1.2,0.8,-0.782,60.0,25.5,16,0,Overperformed,0
+1990,Italy,7,2.714,1.803,0.912,1.143,0.566,85.7,51.3,17,0,Overperformed,0
+1994,United States,4,1.0,0.939,0.061,-0.25,-0.758,25.0,24.2,10,0,Overperformed,0
+1998,France,7,2.714,1.697,1.017,1.857,0.576,85.7,50.0,15,1,Overperformed,0
+2002,South Korea,7,1.571,0.645,0.926,0.286,-1.323,42.9,12.9,10,0,Overperformed,0
+2002,Japan,4,1.75,0.952,0.798,0.5,-0.476,50.0,23.8,6,0,Overperformed,0
+2006,Germany,7,2.286,1.99,0.295,1.143,0.895,71.4,60.0,19,0,Overperformed,0
+2010,South Africa,3,1.333,1.0,0.333,-0.667,-0.5,33.3,16.7,2,0,Overperformed,0
+2014,Brazil,7,1.571,2.206,-0.634,-0.429,1.234,42.9,68.2,21,0,Underperformed,0
+2018,Russia,5,1.6,0.889,0.711,0.8,0.0,40.0,22.2,3,0,Overperformed,0
+2022,Qatar,3,0.0,,,-2.0,,0.0,,0,0,Underperformed,0
+2026,United States,5,1.8,0.939,0.861,0.6,-0.758,60.0,24.2,10,0,Overperformed,1
+2026,Canada,5,1.4,0.0,1.4,0.6,-1.667,40.0,0.0,2,0,Overperformed,1
+2026,Mexico,5,2.4,0.941,1.459,1.4,-0.882,80.0,23.5,15,0,Overperformed,1

@@ -1,0 +1,24 @@
+year,host,teams,matches,goals,goals_per_match,attendance,attendance_per_match,yellow_cards,red_cards,second_yellow_cards,total_cards,cards_per_match,cards_era,champion,champion_confed,runner_up,runner_up_confed,third_place,fourth_place,host_won,format,rule_change_note,has_rule_note,is_partial_edition,edition_label
+1930,Uruguay,13,18,70,3.89,590549,32808.0,,,,,,Pre-cards,Uruguay,CONMEBOL,Argentina,CONMEBOL,United States,Yugoslavia,1,Round Robin,,0,0,1930
+1934,Italy,16,17,70,4.12,363000,21353.0,,,,,,Pre-cards,Italy,UEFA,Czechoslovakia,UEFA,Germany,Austria,1,Knockout,,0,0,1934
+1938,France,15,18,84,4.67,375700,20872.0,,,,,,Pre-cards,Italy,UEFA,Hungary,UEFA,Brazil,Sweden,0,Knockout,,0,0,1938
+1950,Brazil,13,22,88,4.0,1045246,47511.0,,,,,,Pre-cards,Uruguay,CONMEBOL,Brazil,CONMEBOL,Sweden,Spain,0,Round Robin Final,,0,0,1950
+1954,Switzerland,16,26,140,5.38,768607,29562.0,,,,,,Pre-cards,West Germany,UEFA,Hungary,UEFA,Austria,Uruguay,0,Knockout,Highest-scoring edition ever (5.38/match),1,0,1954
+1958,Sweden,16,35,126,3.6,819810,23423.0,,,,,,Pre-cards,Brazil,CONMEBOL,Sweden,UEFA,France,West Germany,0,Knockout,Field expands to 16; Brazil/Pele debut,1,0,1958
+1962,Chile,16,32,89,2.78,893172,27912.0,,,,,,Pre-cards,Brazil,CONMEBOL,Czechoslovakia,UEFA,Chile,Yugoslavia,0,Knockout,,0,0,1962
+1966,England,16,32,89,2.78,1563135,48848.0,,,,,,Pre-cards,England,UEFA,West Germany,UEFA,Portugal,Soviet Union,1,Knockout,,0,0,1966
+1970,Mexico,16,32,95,2.97,1603975,50124.0,52.0,0.0,0.0,52.0,1.62,Cards era (1970-),Brazil,CONMEBOL,Italy,UEFA,West Germany,Uruguay,0,Knockout,Yellow & red cards introduced; substitutes allowed,1,0,1970
+1974,West Germany,16,38,97,2.55,1865753,49099.0,87.0,5.0,0.0,92.0,2.42,Cards era (1970-),West Germany,UEFA,Netherlands,UEFA,Poland,Brazil,1,Knockout,Total Football era; 2nd group stage,1,0,1974
+1978,Argentina,16,38,102,2.68,1545791,40679.0,46.0,3.0,0.0,49.0,1.29,Cards era (1970-),Argentina,CONMEBOL,Netherlands,UEFA,Brazil,Italy,1,Knockout,,0,0,1978
+1982,Spain,24,52,146,2.81,1766277,33967.0,99.0,5.0,0.0,104.0,2.0,Cards era (1970-),Italy,UEFA,West Germany,UEFA,Poland,France,0,Knockout,Field expands to 24 teams,1,0,1982
+1986,Mexico,24,52,132,2.54,2394031,46039.0,138.0,4.0,4.0,142.0,2.73,Cards era (1970-),Argentina,CONMEBOL,West Germany,UEFA,France,Belgium,0,Knockout,,0,0,1986
+1990,Italy,24,52,115,2.21,2516215,48389.0,169.0,10.0,6.0,179.0,3.44,Cards era (1970-),West Germany,UEFA,Argentina,CONMEBOL,Italy,England,0,Knockout,Lowest-scoring edition (2.21/match),1,0,1990
+1994,United States,24,52,141,2.71,3587538,68991.0,228.0,8.0,7.0,236.0,4.54,Cards era (1970-),Brazil,CONMEBOL,Italy,UEFA,Sweden,Bulgaria,0,Knockout,Three points for a win; back-pass rule (1992),1,0,1994
+1998,France,32,64,171,2.67,2785100,43517.0,254.0,18.0,4.0,272.0,4.25,Cards era (1970-),France,UEFA,Brazil,CONMEBOL,Croatia,Netherlands,1,Knockout,Field expands to 32 teams,1,0,1998
+2002,South Korea / Japan,32,64,161,2.52,2705197,42269.0,266.0,11.0,6.0,277.0,4.33,Cards era (1970-),Brazil,CONMEBOL,Germany,UEFA,Turkey,South Korea,0,Knockout,,0,0,2002
+2006,Germany,32,64,147,2.3,3359439,52491.0,326.0,9.0,19.0,335.0,5.23,Cards era (1970-),Italy,UEFA,France,UEFA,Germany,Portugal,0,Knockout,Peak discipline: 5.23 cards/match,1,0,2006
+2010,South Africa,32,64,145,2.27,3178856,49670.0,254.0,9.0,8.0,263.0,4.11,Cards era (1970-),Spain,UEFA,Netherlands,UEFA,Germany,Uruguay,0,Knockout,,0,0,2010
+2014,Brazil,32,64,171,2.67,3429873,53592.0,184.0,7.0,3.0,191.0,2.98,Cards era (1970-),Germany,UEFA,Argentina,CONMEBOL,Netherlands,Brazil,0,Knockout,,0,0,2014
+2018,Russia,32,64,169,2.64,3031768,47371.0,221.0,2.0,2.0,223.0,3.48,Cards era (1970-),France,UEFA,Croatia,UEFA,Belgium,England,0,Knockout,VAR introduced,1,0,2018
+2022,Qatar,32,64,172,2.69,3404252,53191.0,224.0,1.0,3.0,225.0,3.52,Cards era (1970-),Argentina,CONMEBOL,France,UEFA,Croatia,Morocco,0,Knockout,Five substitutes; long stoppage-time additions,1,0,2022
+2026,United States / Canada / Mexico,48,100,292,2.92,,,,,,,,Cards era (1970-),,,,,,,,"48 teams, 12 groups, Round of 32",Field expands to 48 teams; Round of 32 added; 104 matches,1,1,2026*
